@@ -72,8 +72,9 @@ It transforms raw transactional data into actionable business insights using **S
 ---
 
 ## 📊 Dashboard Preview
+<img width="1110" height="673" alt="image" src="https://github.com/user-attachments/assets/c54b08f1-5e9c-4c0a-9ed0-add7901cacfa" />
 
-![Dashboard](./dashboard.png)
+
 
 ---
 
